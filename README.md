@@ -23,4 +23,8 @@ O usuário insere nomes em uma lista e, ao clicar em **Sortear Amigo**, o sistem
 ---
 
 ## 📂 Estrutura do Projeto
-
+/
+├── index.html # Estrutura da página
+├── style.css # Estilos visuais
+├── app.js # Lógica da aplicação
+└── assets/ # Imagens e ícones
